@@ -1,0 +1,15 @@
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\DBProvider.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\DBProvider.pdb
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\DBInterface.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\DBInterface.pdb
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\obj\Debug\DBProvider.csprojResolveAssemblyReference.cache
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\obj\Debug\DBProvider.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\obj\Debug\DBProvider.pdb
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\DBProvider.dll.config
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\EntityFramework.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\System.Data.SqlServerCe.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\EntityFramework.xml
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProvider\bin\Debug\EntityFramework.SqlServerCompact.xml

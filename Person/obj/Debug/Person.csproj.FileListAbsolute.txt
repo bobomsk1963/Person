@@ -1,0 +1,43 @@
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\Person.exe
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\Person.pdb
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\obj\Debug\Person.Form1.resources
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\obj\Debug\Person.Properties.Resources.resources
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\obj\Debug\Person.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\obj\Debug\Person.exe
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\obj\Debug\Person.pdb
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\DBInterface.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\DBInterface.pdb
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\Person.exe.config
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\EntityFramework.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\System.Data.SqlServerCe.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\EntityFramework.xml
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\obj\Debug\Person.Form2.resources
+C:\C#_Программы_Разработка\2016\Test Person\Person\Person\obj\Debug\Person.Form3.resources
+E:\Person\Person\bin\Debug\Person.exe.config
+E:\Person\Person\obj\Debug\Person.exe
+E:\Person\Person\obj\Debug\Person.pdb
+C:\C#_Git\Person\Person\bin\Debug\Person.exe.config
+C:\C#_Git\Person\Person\obj\Debug\Person.exe
+C:\C#_Git\Person\Person\obj\Debug\Person.pdb
+C:\C#_Git\Person\Person\bin\Debug\Person.exe
+C:\C#_Git\Person\Person\bin\Debug\Person.pdb
+C:\C#_Git\Person\Person\bin\Debug\DBInterface.dll
+C:\C#_Git\Person\Person\bin\Debug\EntityFramework.dll
+C:\C#_Git\Person\Person\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#_Git\Person\Person\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\C#_Git\Person\Person\bin\Debug\System.Data.SqlServerCe.dll
+C:\C#_Git\Person\Person\bin\Debug\DBInterface.pdb
+C:\C#_Git\Person\Person\bin\Debug\EntityFramework.xml
+C:\C#_Git\Person\Person\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#_Git\Person\Person\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\C#_Git\Person\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\C#_Git\Person\Person\obj\Debug\Person.Form1.resources
+C:\C#_Git\Person\Person\obj\Debug\Person.Form2.resources
+C:\C#_Git\Person\Person\obj\Debug\Person.Form3.resources
+C:\C#_Git\Person\Person\obj\Debug\Person.Properties.Resources.resources
+C:\C#_Git\Person\Person\obj\Debug\Person.csproj.GenerateResource.Cache

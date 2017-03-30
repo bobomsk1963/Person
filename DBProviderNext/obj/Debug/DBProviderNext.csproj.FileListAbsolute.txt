@@ -1,0 +1,15 @@
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\DBProviderNext.dll.config
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\DBProviderNext.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\DBProviderNext.pdb
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\DBInterface.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\EntityFramework.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\System.Data.SqlServerCe.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\DBInterface.pdb
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\EntityFramework.xml
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\obj\Debug\DBProviderNext.csprojResolveAssemblyReference.cache
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\obj\Debug\DBProviderNext.dll
+C:\C#_Программы_Разработка\2016\Test Person\Person\DBProviderNext\obj\Debug\DBProviderNext.pdb
